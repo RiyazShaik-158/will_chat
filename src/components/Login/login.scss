@@ -1,0 +1,21 @@
+.Login_head{
+    width: 50%;
+    height: 50%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    border: 2px solid blue;
+    border-radius: 15px;
+    h4{
+        color: blue;
+        font-size: 1.6rem;
+    }
+    .form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+}
